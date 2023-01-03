@@ -1,0 +1,25 @@
+.centered
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.icon
+{
+    width: 100px;
+    height: 100px;
+}
+
+.small-icon
+{
+    width: 50px;
+    height: 50px;
+}
+
+.btn-icon
+{
+    background-color: transparent;
+    border: none;
+}
