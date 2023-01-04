@@ -5,5 +5,5 @@ CREATE TABLE Squadra(
     Sede_indirizzo varchar(30),
     Sede_citta varchar(30),
     Email varchar(40),
-    Telefono char(10),
+    Telefono char(10)
 )
