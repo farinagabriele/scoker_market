@@ -8,6 +8,6 @@ create table Contratto(
     codice_giocatore int,
     partita_iva char(11),
     primary key(codice_contratto),
-    foreign key(codice_giocatore) references Giocatore(codice_giocatore),
-    foreign key(partita_iva) references Squadra(partita_iva)
+    foreign key(codice_giocatore) references Giocatore(Codice_Giocatore),
+    foreign key(partita_iva) references Squadra(Partita_IVA)
 )
