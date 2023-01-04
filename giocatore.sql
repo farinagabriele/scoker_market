@@ -4,5 +4,5 @@ CREATE TABLE Giocatore(
      Cognome char(40) NOT NULL,
      Ruolo char(4),
      Data_Nascita date,
-     Citta_Provenienza char(20),
+     Citta_Provenienza char(20)
 )
