@@ -1,5 +1,5 @@
 # Calcio Mercato
-Analisi, progettazione e realizzazione di un database contenente i dati relativi ali calciatori, le squadre in cui giocano ed i loro contratti. Implementazione di un sito web che potrebbe interfacciarsi con il database.
+Analisi, progettazione e realizzazione di un database contenente i dati relativi ai calciatori, le squadre in cui giocano ed i loro contratti. Implementazione di un sito web che potrebbe interfacciarsi con il database.
 ## Autori
 Farina Gabriele, Alessio Mercia, Mannoni Francesco, Savo Valerio.
 ### Corso 
