@@ -1,7 +1,7 @@
 insert into contratto values(
     1001,
-    "01/07/2022",
-    "30/06/2023",
+    "2022-07-01",
+    "2023-06-30",
     4000000,
     1,
     30,
@@ -10,8 +10,8 @@ insert into contratto values(
 );
 insert into contratto values(
     1002,
-    "01/01/2023",
-    "30/06/2023",
+    "2023-01-01",
+    "2023-06-30",
     5500000,
     0.80,
     9,
@@ -20,8 +20,8 @@ insert into contratto values(
 );
 insert into contratto values(
     1003,
-    "01/06/2023",
-    "30/06/2024",
+    "2023-06-01",
+    "2024-06-30",
     12000000,
     1,
     21,
@@ -30,8 +30,8 @@ insert into contratto values(
 );
 insert into contratto values(
     1004,
-    "01/01/2023",
-    "30/06/2023",
+    "2023-01-01",
+    "2023-06-30",
     1500000,
     0.20,
     7,
@@ -40,8 +40,8 @@ insert into contratto values(
 );
 insert into contratto values(
     1005,
-    "01/01/2019",
-    "30/06/2019",
+    "2019-01-01",
+    "2019-06-30",
     500000,
     1,
     18,
