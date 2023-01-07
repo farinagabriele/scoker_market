@@ -2,9 +2,9 @@ insert into squadra values(
     "10005483728",
     "AS Roma",
     1927,
-    "Piazzale Dino Viola"
-    "Roma"
-    "romacares@asroma.it"
+    "Piazzale Dino Viola",
+    "Roma",
+    "romacares@asroma.it",
     "0689386000"
 );
 insert into squadra values(
@@ -18,7 +18,7 @@ insert into squadra values(
 );
 insert into squadra values(
     "06857453654",
-    "AC Milan"
+    "AC Milan",
     1899,
     "Via Aldo Rossi",
     "Milano",
