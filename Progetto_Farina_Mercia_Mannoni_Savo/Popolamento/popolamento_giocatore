@@ -3,7 +3,7 @@ insert into giocatore values(
     "Francesco",
     "Totti",
     "ATT",
-    "27/09/1976",
+    "1976-09-27",
     "Roma"
 );
 
@@ -12,7 +12,7 @@ insert into giocatore values(
     "Alessandro",
     "Del Piero",
     "ATT",
-    "09/11/1974",
+    "1974-11-09",
     "Conegliano"
 );
 
@@ -21,7 +21,7 @@ insert into giocatore values(
     "Paolo",
     "Maldini",
     "DC",
-    "26/06/1968",
+    "1968-06-26",
     "Milano"
 );
 
@@ -30,7 +30,7 @@ insert into giocatore values(
     "Diego Armando",
     "Maradona",
     "COC",
-    "30/10/1960",
+    "1960-10-30",
     "Lanùs"
 );
 
@@ -39,6 +39,6 @@ insert into giocatore values(
     "Sebastien",
     "Frey",
     "POR",
-    "18/03/1980",
+    "1980-03-18",
     "Thonon-les-Bains"
 );
