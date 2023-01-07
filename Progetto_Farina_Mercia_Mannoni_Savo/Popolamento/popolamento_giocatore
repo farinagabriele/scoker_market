@@ -2,7 +2,7 @@ insert into giocatore values(
     "A324F4536SD"
     "Francesco"
     "Totti"
-    "AT"
+    "ATT"
     "27/09/1976"
     "Roma"
 );
