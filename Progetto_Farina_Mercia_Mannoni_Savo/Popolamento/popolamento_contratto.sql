@@ -1,5 +1,5 @@
 insert into contratto values(
-    1001,
+    "A324F4536SD",
     "01/07/2022",
     "30/06/2023",
     4000000,
@@ -9,7 +9,7 @@ insert into contratto values(
     "10005483728"
 );
 insert into contratto values(
-    1002,
+    "B685G0987SS",
     "01/01/2023",
     "30/06/2023",
     5500000,
@@ -19,7 +19,7 @@ insert into contratto values(
     "17674763649"
 );
 insert into contratto values(
-    1003,
+    "C554Z4561LK",
     "01/06/2023",
     "30/06/2024",
     12000000,
@@ -29,7 +29,7 @@ insert into contratto values(
     "06857453654"
 );
 insert into contratto values(
-    1004,
+    "D101M2369AM",
     "01/01/2023",
     "30/06/2023",
     1500000,
@@ -39,7 +39,7 @@ insert into contratto values(
     "10547665474"
 );
 insert into contratto values(
-    1005,
+    "E934P34125LO",
     "01/01/2019",
     "30/06/2019",
     500000,
