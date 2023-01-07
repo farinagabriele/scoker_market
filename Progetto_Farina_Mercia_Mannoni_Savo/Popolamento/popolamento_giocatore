@@ -1,44 +1,44 @@
 insert into giocatore values(
-    "A324F4536SD"
-    "Francesco"
-    "Totti"
-    "ATT"
-    "27/09/1976"
+    "A324F4536SD",
+    "Francesco",
+    "Totti",
+    "ATT",
+    "27/09/1976",
     "Roma"
 );
 
 insert into giocatore values(
-    "B685G0987SS"
-    "Alessandro"
-    "Del Piero"
-    "ATT"
-    "09/11/1974"
+    "B685G0987SS",
+    "Alessandro",
+    "Del Piero",
+    "ATT",
+    "09/11/1974",
     "Conegliano"
 );
 
 insert into giocatore values(
-    "C554Z4561LK"
-    "Paolo"
-    "Maldini"
-    "DC"
-    "26/06/1968"
+    "C554Z4561LK",
+    "Paolo",
+    "Maldini",
+    "DC",
+    "26/06/1968",
     "Milano"
 );
 
 insert into giocatore values(
-    "D101M2369AM"
-    "Diego Armando"
-    "Maradona"
-    "COC"
-    "30/10/1960"
+    "D101M2369AM",
+    "Diego Armando",
+    "Maradona",
+    "COC",
+    "30/10/1960",
     "Lanùs"
 );
 
 insert into giocatore values(
-    "E934P34125LO"
-    "Sebastien"
-    "Frey"
-    "POR"
-    "18/03/1980"
+    "E934P34125LO",
+    "Sebastien",
+    "Frey",
+    "POR",
+    "18/03/1980",
     "Thonon-les-Bains"
 );
