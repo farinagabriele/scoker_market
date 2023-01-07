@@ -31,7 +31,7 @@ insert into giocatore values(
     "Maradona",
     "COC",
     "1960-10-30",
-    "Lanùs"
+    "Lanus"
 );
 
 insert into giocatore values(
