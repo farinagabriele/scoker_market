@@ -34,6 +34,8 @@ Contiene i file _.html_ e _.css_ per l'implementazione di un sito web che potreb
 5. _style.css_ -> Contiene lo **style** applicato a tutte le pagine del sito 
                   web.
 ### images
-Contiene il _logo.png_, l'immagine utilizzata come logo del sito web.
+Contiene le immagini utilizzate nel sito web:
+1. _logo.png_, il logo del sito web.
+2. _di_maria.jpg_, _dybala.jpg_, _kvara.jpg_, le immagini utilizzate nella homepage.
 
 
